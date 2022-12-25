@@ -265,28 +265,25 @@ for ($i=0; $i <count($_POST[$keys[0]]) ; $i++) {
 <div class="container">
   <div class="row">
     <div class="col">
-WINTS Wintergarten&Alüminium                                              
-<br>Inf Seref Alakus                                                                   
-<br>Am Obsmarkt 2, 55126 Finthen-Mainz                            
+WINT Wintergarten&Alüminium                                              
+<br>Inf Drei Vier                                                                   
+<br>Am Obsmarkt 2, 22233 Mainz                            
                                                                                                
                                                                                                                                                                                             
     </div>
     <div class="col">
-    Telefon : 06131-584 31 61
-    <br>Telefax : 0177 506 27 27 Mobil
-<br>E-Mail  : info@wints-online.de
-<br>Internet: www.wints-online.de
+    Telefon : 0677 222 3333
+    <br>Telefax : 0177 222 3333 Mobil
+<br>E-Mail  : zwei@eins.de
+<br>Internet: www.eins.de
 <br>Register-Nr. / Gericht: 
 <br>Steuer- /  UST-ID Nummer 26/002/64346
-<br>UST-ID Nummer  DE257279619
+<br>UST-ID Nummer  DE22223333
     </div>
     <div class="col">
     Bank   : SPARKASSE Mainz
-    <br>IBAN   : DE39 5505 0120 0200 1148 74
+    <br>IBAN   : DE22 2222 2222 2222
     <br> BIC       : MALADE51MNZ
-    <br>BANK 2: VR-Bank Mainz
-    <br>IBAN    : DE82 5509 1200 0033 6206 08
-    <br>BIC       : GENODE61AZY
     </div>
   </div>
 </div>
